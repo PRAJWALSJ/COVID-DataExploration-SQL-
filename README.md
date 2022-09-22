@@ -1,2 +1,4 @@
 # COVID-DataExploration-SQL-
 Data Exploration of Covid dataset from ourworldindata.org website using SQL. This project includes calculation of attributes like DeathPercentage, PercentPopulationInfected, TotalDeathCount, RollingPeopleVaccinated etc. I believe more explorations can be done as the purpose of this project was to apply basic knowledge of SQL in exploring a real-life scenario(COVID-19 Outbreak). The queries cover basic SQL functions, window functions, and CTEs
+
+The dataset contains details of columns on cases, deaths, and vaccinations. For simplicity, I decided to split the dataset into two forms with Excel: CovidDeaths, and CovidVaccinations. The CovidDeaths dataset contained columns and records on cases, and deaths while the CovidVaccinations dataset contains only columns and rows regarding vaccinations and tests. The whole SQL project is executed on MySQL database management system.
